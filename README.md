@@ -1,1 +1,1 @@
-# DynamicsOfGenerlizedCoupledSpinSystems
+# Dynamics Of Generlized Coupled SpinSystems
